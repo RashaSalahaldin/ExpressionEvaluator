@@ -1,0 +1,4 @@
+D:\My Projects\expressionevaluator\expressionevaluator\bin\Debug\expressionevaluator.exe
+D:\My Projects\expressionevaluator\expressionevaluator\bin\Debug\expressionevaluator.pdb
+D:\My Projects\expressionevaluator\expressionevaluator\obj\x86\Debug\expressionevaluator.exe
+D:\My Projects\expressionevaluator\expressionevaluator\obj\x86\Debug\expressionevaluator.pdb
